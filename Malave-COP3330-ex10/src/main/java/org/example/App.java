@@ -2,8 +2,8 @@ package org.example;
 import java.util.Scanner;
 import java.util.Date;
 /*
- *  UCF COP3330 Fall 2021 Assignment 1 Solution
- *  Copyright 2021 first_name last_name
+ *  UCF COP3330 Fall 2021 Assignment 10 Solution
+ *  Copyright 2021 Jose Malave
  */
 
 public class App
